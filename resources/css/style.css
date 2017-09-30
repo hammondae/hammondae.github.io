@@ -1,0 +1,29 @@
+body {
+  font-family: Verdana, arial, sans-serif;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+}
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+h3 {
+  font-size: 21px;
+  color: gray;
+  font-weight: normal;
+}
+#copy {
+  text-align: right;
+}
+.topspace {
+  margin-top: 20px;
+}
